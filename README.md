@@ -1,21 +1,15 @@
-Personal Introduction Program
-Description
+## Overview
+This project is a beginner Python program that collects user information and displays a personalized message.
 
-This is a beginner Python project that collects user information and displays a personalized welcome message.
+## What I Learned
+- Variables and data types
+- Taking input using input()
+- Using print() and f-strings
+- Basic Python syntax
 
-Features
-Takes user input
-Stores data in variables
-Uses f-strings
-Displays a formatted welcome message
-Technologies Used
-Python 3
-How to Run
-python personal_intro.py
-Sample Output
-What is your name? Janvi
-How old are you? 19
-What is your favorite hobby? Coding
+## How to Run
+1. Install Python
+2. Run: python personal_intro.py
 
-🎉 Welcome Janvi! 🎉
-You are 19 years old and love Coding.
+## Output
+![Program Output](Screenshot1.png)
