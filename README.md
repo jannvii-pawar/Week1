@@ -48,5 +48,5 @@ Week1/
 **Expected Output:**
 A personalized welcome message displaying the entered information.
 
-**Result:** Passed ✅
+**Result:** Passed 
 
